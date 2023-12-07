@@ -36,14 +36,8 @@ I am currently undergoing retraining as an IT specialist (Fachinformatiker), bro
   
 
 
-### :bar_chart: GitHub stats
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
-
-[![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingsky1t&count_private=true&show_icons=true&theme=dark)](https://github.com/Kingsky1t/github-readme-stats)
-
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsky1t&show_icons=true&theme=dark)
 
  
-</div>
+</div>//
 ------
