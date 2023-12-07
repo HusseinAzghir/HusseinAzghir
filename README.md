@@ -29,6 +29,9 @@
 My name is **Hussein Azghir** and welcome to my profile.
 
 I am currently undergoing retraining as an IT specialist (Fachinformatiker), broadening my expertise in various programming languages. While my formal education is in IT, my passion lies in coding and web design. I am actively focused on enhancing my skills across a diverse spectrum of technologies. I am driven by a dedication to continuous learning, aiming for personal growth with each learning opportunity. Always eager to assist others, I am actively seeking opportunities to apply and demonstrate my evolving skills in real-world projects.
+
+
+
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
   
 
