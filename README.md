@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/husseinazghir/">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
 </a>
-<a href="hussien.azghir@gmail.com">
+<a href="https://hussien.azghir@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
 </a>
 <a href="">
