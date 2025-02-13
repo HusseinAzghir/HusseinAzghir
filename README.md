@@ -56,6 +56,8 @@ I am currently undergoing retraining as an IT specialist (Fachinformatiker), bro
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/WEB-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/SP-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/vue-vue.js-informational?style=flat&logo=vue&logoColor=white&color=ffffff)
 
 
  
