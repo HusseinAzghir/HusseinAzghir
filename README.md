@@ -5,17 +5,20 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/hussein-azghir-981745345/">
+  <a href="https://www.linkedin.com/in/hussein-azghir-981745345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/husseinazghir/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+  <a href="https://www.instagram.com/husseinazghir/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:contact@husseinazghir.com">
+
+  <a href="mailto:contact@husseinazghir.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://husseinazghir.com">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Portfolio-blue&logoColor=white" alt="Web"/>
+
+  <a href="https://husseinazghir.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
 
@@ -26,9 +29,9 @@
 Freelance Full Stack Developer with hands-on experience building modern web applications. Proficient in JavaScript/TypeScript, React/Vue, Node.js, and full-stack development workflows. Passionate about clean code, user experience, and continuous learning.
 
 **Recent Experience:**
-- Full Stack Developer (Freelance)
-- Software Development (novomind AG, Hamburg)
-- IT Specialist Training (CBM Projektmanagement)
+Full Stack Developer (Freelance)
+Software Development (novomind AG, Hamburg)
+IT Specialist Training (CBM Projektmanagement)
 
 **Tech Stack:** JavaScript, TypeScript, React, Vue/Nuxt, Node.js, Spring Boot, MySQL, MongoDB, Git, Docker
 
