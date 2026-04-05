@@ -1,32 +1,38 @@
-[I believe in center aligned 🤲]: #
-
 <div align="center">
-  
-[this is for the picture]: #	
+
 <div id="header">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-  
-[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
+
 <div id="badges">
-<a href="https://www.linkedin.com/in/hussein-azghir-981745345/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.instagram.com/husseinazghir/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-</a>
-<a href="https://contact@husseinazghir.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/hussein-azghir-981745345/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/husseinazghir/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:contact@husseinazghir.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://husseinazghir.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMHYxMGgxNmwxMCA4di0xMFgxMiIvPgo8L3N2Zz4K" alt="Portfolio"/>
+  </a>
 </div>
 
+### Hi there 👋
 
-### Hi there 👋🎉
+**Hussein Azghir** | Full Stack Developer
 
-My name is **Hussein Azghir** and welcome to my profile.
+Freelance Full Stack Developer with hands-on experience building modern web applications. Proficient in JavaScript/TypeScript, React/Vue, Node.js, and full-stack development workflows. Passionate about clean code, user experience, and continuous learning.
 
-I am currently undergoing retraining as an IT specialist (Fachinformatiker), broadening my expertise in various programming languages. While my formal education is in IT, my passion lies in coding and web design. I am actively focused on enhancing my skills across a diverse spectrum of technologies. I am driven by a dedication to continuous learning, aiming for personal growth with each learning opportunity. Always eager to assist others, I am actively seeking opportunities to apply and demonstrate my evolving skills in real-world projects.
+**Recent Experience:**
+- Full Stack Developer (Freelance)
+- Software Development (novomind AG, Hamburg)
+- IT Specialist Training (CBM Projektmanagement)
 
+**Tech Stack:** JavaScript, TypeScript, React, Vue/Nuxt, Node.js, Spring Boot, MySQL, MongoDB, Git, Docker
+
+📧 contact@husseinazghir.com | 💼 [Portfolio](https://husseinazghir.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hussein-azghir-981745345/)
 
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
