@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://husseinazghir.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMHYxMGgxNmwxMCA4di0xMFgxMiIvPgo8L3N2Zz4K" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=Portfolio-blue&logoColor=white" alt="Web"/>
   </a>
 </div>
 
@@ -31,8 +31,6 @@ Freelance Full Stack Developer with hands-on experience building modern web appl
 - IT Specialist Training (CBM Projektmanagement)
 
 **Tech Stack:** JavaScript, TypeScript, React, Vue/Nuxt, Node.js, Spring Boot, MySQL, MongoDB, Git, Docker
-
-📧 contact@husseinazghir.com | 💼 [Portfolio](https://husseinazghir.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/hussein-azghir-981745345/)
 
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
